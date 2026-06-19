@@ -1,3 +1,21 @@
+# Virtual environment (safety)
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit local config
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip files (IMPORTANT for your case)
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

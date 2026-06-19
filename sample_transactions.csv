@@ -1,0 +1,17 @@
+order_id,customer_name,email,phone,order_date,amount,payment_mode,product_name,product_category,status
+ORD001,Rahul Sharma,rahul.sharma@email.com,+919876543210,2024-01-15,1500.00,UPI,Laptop Stand,Electronics,Completed
+ORD002,Priya Patel,priya.patel@email.com,9123456789,2024-01-16,250.50,Credit Card,USB Hub,Electronics,Completed
+ORD003,Amit Kumar,,+918765432109,2024-01-17,5000.00,Net Banking,Mechanical Keyboard,Electronics,Processing
+ORD004,Sneha Singh,sneha@company.org,+917654321098,16/01/2024,750.00,Debit Card,Mouse Pad,Accessories,Completed
+ORD005,invalid-email,notanemail,1234,not-a-date,-100.00,InvalidMode,Webcam,Electronics,Failed
+ORD001,Rahul Sharma,rahul.sharma@email.com,+919876543210,2024-01-15,1500.00,UPI,Laptop Stand,Electronics,Completed
+ORD006,Vijay Mehta,vijay.mehta@gmail.com,+916543210987,2024-01-18,3200.00,EMI,Monitor,Electronics,Completed
+ORD007,Anita Rao,anita.rao@outlook.com,+915432109876,2024-01-19,89.99,COD,HDMI Cable,Accessories,Shipped
+ORD008,Kiran Joshi, kiran.joshi@email.com ,+914321098765,2024-01-20,15000000.00,Wallet,Gaming Chair,Furniture,Pending
+ORD009,Deepak Nair,deepak@corp.in,+913210987654,2024-01-21,450.00,Cash,Desk Lamp,Furniture,Completed
+ORD010,,missing@email.com,+912109876543,2024-01-22,920.00,UPI,Notebook,Stationery,Completed
+ORD011,Meera Reddy,meera.r@yahoo.com,+911098765432,2024-01-23,1200.00,Credit Card,Pen Drive,Electronics,Completed
+ORD012,Suresh Pillai,suresh@mail,+910987654321,2024/01/24,0.00,Debit Card,Sticky Notes,Stationery,Cancelled
+ORD013,Lakshmi Devi,lakshmi.devi@email.com,+919870123456,2024-01-25,3750.00,Net Banking,Headphones,Electronics,Completed
+ORD014,Rohit Verma,rohit.v@company.com,invalid-phone,2024-01-26,680.00,UPI,Phone Stand,Accessories,Processing
+ORD015,Neha Gupta,neha.gupta@webmail.com,+918901234567,2024-01-27,12500.00,EMI,Tablet,Electronics,Completed
